@@ -1,0 +1,7 @@
+## Requirements
+
+torch >= 2.1.0
+torch_geometric
+networkx
+numpy
+matplotlib
